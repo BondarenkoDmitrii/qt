@@ -1,2 +1,2 @@
 # qt
-Преобразование QHash в json и записать в файл.
+Convert QHash to json and write to file.
